@@ -1,0 +1,3 @@
+- Buena revisión de esquemas que aplican mating restrictions.
+- Proponen auto-adaptar una función que determina con cuál individuo cruzarse
+- Es GP, y lo que hacen es tener 2 cromosomas (árboles). El 1º es la solución y el 2º es para determinar con quien se cruza (en función de la similitud).

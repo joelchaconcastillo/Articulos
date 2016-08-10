@@ -1,0 +1,1 @@
+Ballester, Carter. An effective real-parameter genetic algorithms for multimodal optimization -> tengo otros de los mismo autores del GECCO, que creo que es bastante similar

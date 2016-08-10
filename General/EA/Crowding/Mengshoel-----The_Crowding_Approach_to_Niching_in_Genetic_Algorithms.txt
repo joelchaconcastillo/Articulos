@@ -1,0 +1,9 @@
+- Indican que crowding se puede utilizar para tratar de obtener múltiples soluciones, o para mantener la diversidad.
+- Hay otros métodos de niching a parte de crowding, como sharing y clustering.
+- En el probabilistic crowding se usa una regla probabilística para el reemplazamiento.
+- Dicen que el probabilista da resultados más estables y predecibles, porque es más fácil mantener una buena diversidad con este tipo de selección.
+- Distingue entre métodos implícitos este tipo de selección calcula distancia) y no implícitos (como preselection)
+- Indican que una posibilidad al hacer el matching es emparejar de forma que la suma total de distancias se minimice, es decir, de forma similar a Mahfoud, pero en vez de considerar sólo los padres, se considera toda la población. Esto se puede hacer en O(n^3).
+- Hacen un listado de diferentes reglas de remplazamiento, como deterministic crowding y probabilistic crowding. Proponen usarlos de manera conjunta, usando probabilididades asociadas a cada una.
+- Sobre prob. crowding dice que "could give too weak convergence".
+- Referencian bastante

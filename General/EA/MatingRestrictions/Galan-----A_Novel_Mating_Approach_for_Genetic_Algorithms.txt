@@ -1,0 +1,8 @@
+- Revisión de otros esquemas con mating restrictions. Indican que en algunos se premia hacer cruce con individuos que se le parezcan (positive assortative mating, x ej) mientras que en otros se premia lo contrario (negative assortative mating)
+- Proponen un esquema en que a través de un parámetro se puede modelar si se quieren cruces con los parecidos o con los diferentes.
+- En el modelo, a partir del conjunto de padres, se elige el best; luego eligen un conjunto lambda de individuos de forma aleatoria, se ordenan por similitud y se cruza con el que esta en la posición alpha - 1.
+- Con los estudios se ve que el esquema no es robusto, es decir, no fueron capaces de descubrir qué propiedades provocan que unos u otros valores sean adecuados.
+- Probaron tb. con un esquema auto-adaptativo pero tp. resultó en un esquema robusto
+- Para calcular la similitud usa tanto el espacio de las variables como el espacio objetivo, llegando a cosas similares.
+
+- Tiene "fallos" en la parte de revisión/justificación, ya que nombra esquemas diciendo que se promueven que se cruce con lo más cercanos, y que por eso hacen la adaptación. Sin embargo, cruzar con lo más cercanos solo se hizo para hacer comparativas y no dio buenos resultados (salvo tal vez en el método de Huang, al que no tengo acceso, y los basados en nichos en que sí tiene razón).

@@ -1,0 +1,2 @@
+Craighurst. Enhancing GA Performance through Crossover Prohibitions Based on Ancestry. 6 ICGA
+Huang. An analysis of mate selection in genetic algorithms. Technical Report (en algunos sitios dicen que se publicó en GECCO 2001 tb.)

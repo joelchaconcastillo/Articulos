@@ -1,0 +1,5 @@
+- Proponen un método llamado Generalized Crowding que cambia la forma en que se reemplaza en crowding.
+- Concretamente, al decidir entre un padre (p) y un hijo (c), si el hijo es mejor se selecciona con prob = f(c)/(f(c) + delta * f(c)); si son iguales prob = 0.5 y si es peor: prob = delta * f(c) / (delta * f(c) + f(p))
+- Con delta se puede adaptar crowding al rpboelam. De hecho probabilistic y deterministic crowding son casos especiales.
+- Los resultados muestran que dependiendo del valor de delta cambian mucho los resultados y que los valores buenos dependen mucho del problema.
+- En un artículo posterior prueban con delta adaptativo.

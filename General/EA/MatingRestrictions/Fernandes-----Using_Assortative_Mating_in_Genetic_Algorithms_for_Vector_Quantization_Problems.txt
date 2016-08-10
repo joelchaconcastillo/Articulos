@@ -1,0 +1,3 @@
+- Proponen un método basado en mating restrictions por similitud.
+- Para elegir quienes se aparean primero se elige uno con roulette wheel method, y a continuación se eligen N más. De las N, nos quedamos con el más cercano o más lejano en función de que sea positive assortative o negative assortative mating.
+- Para el problema que abordan, negative assortative mating da mejores resultados.

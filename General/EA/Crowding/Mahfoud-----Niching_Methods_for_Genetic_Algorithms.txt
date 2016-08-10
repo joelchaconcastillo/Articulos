@@ -1,0 +1,5 @@
+- Definen los métodos de niching como aquellos que lo analizan y mantienen múltiples soluciones
+- Destacan el fitness sharing y crowding
+- Hacen ver que fitness sharing no tiene por qué usarse con fitness-proportionate selection y que podría usarse con tournament actualizando los valores en base a la nueva población que se está formando (entrando ya a tocar el remplazamiento en cierta forma).
+- En el caso de crowding nombra varios métodos relacionados.
+- Nombra un artículos interesante de Cedeño, donde se hace ver que crowding no tiene por qué mantener una población diversa debido a los fallos de remplazamiento.

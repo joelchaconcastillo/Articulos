@@ -1,0 +1,4 @@
+- Frase interesante "Tuning globl parameters such as pop. size, mut. probability and crossover prop. has been the most recommended technique fro controlling premature convergence in the GA.
+- Es otro crowding en el cual como en preselección, los hijos se enfrentan a sus padres correspondientes. Proponen 2 modos: emparejarlos de forma aleatoria, unir fuerzas de padres por un lado y de hijos por otro y hacer una competición.
+- La principal novedad es que incorporan la selección de simulated annealing.
+- La mayor complejidad que veo es que hay que fijar el cooling scheme.

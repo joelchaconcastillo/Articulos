@@ -1,0 +1,3 @@
+- Este artículo es una extensión de Generalized Crowding for genetic algorithms (GCGA). En GCGA lo que proponen es un crowding que dispone de un parámetro que hace parecerlo más al determinista o al probabilista según el valor.
+- El problema de GCGA es que fijar el parámetro es muy difícil.
+- En este artículo proponen dos formas de adaptar el parámetro: auto-adaptación y adaptación que considera la entropia para ir cambiando el valor del parámetro. Dicen que hay una cierta mejoría frente al caso fijo, pero dependiendo del problema cambia muchísimo los resultados y no dan unas buenas explicaciones con lo que diría que el objetivo no está conseguido.
